@@ -1,5 +1,4 @@
 <?php
-// Cabeceras para API y CORS
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type");
@@ -11,14 +10,13 @@ require_once 'includes/mail.php';
 require_once 'includes/db.php'; 
 require_once 'includes/bd_profile.php';
 
-// --- Función para responder JSON ---
+
 function sendJson($success, $message, $code = 200) {
     http_response_code($code);
     echo json_encode(['success' => $success, 'message' => $message]);
     exit;
 }
 
-// --- LÓGICA DE VALIDACIÓN POR EMAIL (GET) ---
 if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['validate'])) {
     $token = $_GET['validate'];
     $stmt = $conn->prepare("SELECT user_id, validation_expires, is_active FROM user WHERE validation_token = ? LIMIT 1");
@@ -34,7 +32,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['validate'])) {
     }
 }
 
-// --- LÓGICA DE REGISTRO (POST) ---
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $input = json_decode(file_get_contents("php://input"), true);
 
@@ -46,9 +43,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $telefono = trim($input['telefono'] ?? '');
     $entidad = trim($input['entidad'] ?? '');
     $tipo = $input['tipo'] ?? '';
-    $tags = $input['tags'] ?? []; // Recibimos el array de etiquetas de React
+    $tags = $input['tags'] ?? [];
 
-    // Validaciones básicas (puedes ampliar con tus reglas de longitud)
     if (!$nombre || !$apellidos || !$email || !$password || !$ciudad || !$telefono || !$entidad || !$tipo) {
         sendJson(false, "Todos los campos son obligatorios.");
     }
@@ -57,7 +53,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         sendJson(false, "El email no es válido.");
     }
 
-    // Comprobar si el email ya existe
     $stmt = $conn->prepare("SELECT user_id FROM user WHERE email = ? LIMIT 1");
     $stmt->execute([$email]);
     if ($stmt->fetch()) {
@@ -75,12 +70,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $stmt = $conn->prepare($sql);
         $stmt->execute([$email, $password_hash, $nombre, $apellidos, $ciudad, $telefono, $entidad, $tipo, $token, $expires]);
 
-        // Enviar email de validación
         enviarCorreoValidacion($email, $token, $nombre);
-
-        // Asignar etiquetas (usamos tu función original)
         assignTagsToUserByEmail($email, $tags);
-
         sendJson(true, "Registro exitoso. Revisa tu correo para validar la cuenta.");
 
     } catch (Exception $e) {
@@ -88,7 +79,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-// Función original de etiquetas (la dejo aquí si no está en bd_profile.php)
 function assignTagsToUserByEmail(string $email, array $tags) {
     global $conn;
     if (empty($tags)) return true;

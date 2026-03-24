@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom'; // Importamos el navegador
 
 const Register = () => {
   const [formData, setFormData] = useState({
@@ -12,6 +13,9 @@ const Register = () => {
     tipo: ''
   });
 
+  const [message, setMessage] = useState('');
+  const navigate = useNavigate(); 
+
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -19,15 +23,27 @@ const Register = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch('http://localhost/tu-proyecto/simbio_BACKEND/register.php', {
+      const response = await fetch('http://localhost:8080/register.php', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
       });
+      
       const data = await response.json();
-      alert(data.message);
+
+      if (data.success) {
+        setMessage("Registre correcte! Redirigint al login en 6 segons...");
+        
+        setTimeout(() => {
+          navigate('/login');
+        }, 6000);
+        
+      } else {
+        setMessage("Error: " + data.message);
+      }
     } catch (error) {
       console.error("Error:", error);
+      setMessage("No es pot connectar amb el servidor.");
     }
   };
 
@@ -35,6 +51,19 @@ const Register = () => {
     <div className="register-container">
       <form onSubmit={handleSubmit}>
         <h1>Registre d'usuari</h1>
+        
+        {message && (
+          <div style={{ 
+            padding: '10px', 
+            marginBottom: '10px', 
+            backgroundColor: message.includes('correcte') ? '#d4edda' : '#f8d7da',
+            color: message.includes('correcte') ? '#155724' : '#721c24',
+            borderRadius: '5px'
+          }}>
+            {message}
+          </div>
+        )}
+
         <input type="text" name="nombre" placeholder="Nom" onChange={handleChange} required />
         <input type="text" name="apellidos" placeholder="Cognoms" onChange={handleChange} required />
         <input type="email" name="email" placeholder="Email" onChange={handleChange} required />
@@ -42,11 +71,13 @@ const Register = () => {
         <input type="text" name="ciudad" placeholder="Ciutat" onChange={handleChange} required />
         <input type="text" name="telefono" placeholder="Telèfon" onChange={handleChange} required />
         <input type="text" name="entidad" placeholder="Entitat" onChange={handleChange} required />
+        
         <select name="tipo" onChange={handleChange} required>
           <option value="">Selecciona tipus...</option>
           <option value="Empresa">Empresa</option>
           <option value="Centre">Centre</option>
         </select>
+        
         <button type="submit">Registrarse</button>
       </form>
     </div>

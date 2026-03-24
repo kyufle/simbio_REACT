@@ -1,87 +1,94 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom'; 
+import { Link } from 'react-router-dom';
 
-const Register = () => {
-  const [formData, setFormData] = useState({
-    nombre: '',
-    apellidos: '',
-    email: '',
-    password: '',
-    ciudad: '',
-    telefono: '',
-    entidad: '',
-    tipo: ''
-  });
+const Login = () => {
+  const [formData, setFormData] = useState({ email: '', password: '' });
+  const [error, setError] = useState('');
 
-  const [message, setMessage] = useState('');
-  const navigate = useNavigate();
+const LOGIN_API_URL = 'http://localhost:8080//simbio_BACKEND/login.php';
 
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    try {
-      const response = await fetch('http://localhost:8080/register.php', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
-      });
-      
-      const data = await response.json();
+const handleSubmit = async (e) => {
+  e.preventDefault();
+  setError('');
 
-      if (data.success) {
-        setMessage("Registre correcte! Redirigint al login en 6 segons...");
-        
-        setTimeout(() => {
-          navigate('/login');
-        }, 6000);
-        
-      } else {
-        setMessage("Error: " + data.message);
-      }
-    } catch (error) {
-      console.error("Error:", error);
-      setMessage("No es pot connectar amb el servidor.");
+  try {
+    const response = await fetch(LOGIN_API_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      credentials: 'include', 
+      body: JSON.stringify(formData),
+    });
+
+    const data = await response.json();
+    
+    if (data.success) {
+      window.location.href = '/profile';
+    } else {
+      setError(data.message);
     }
-  };
+  } catch (err) {
+    console.error("Detalle del error:", err);
+    setError('No se pudo conectar con el servidor. Revisa la consola (F12).');
+  }
+};
 
   return (
-    <div className="register-container">
-      <form onSubmit={handleSubmit}>
-        <h1>Registre d'usuari</h1>
-        
-        {message && (
-          <div style={{ 
-            padding: '10px', 
-            marginBottom: '10px', 
-            backgroundColor: message.includes('correcte') ? '#d4edda' : '#f8d7da',
-            color: message.includes('correcte') ? '#155724' : '#721c24',
-            borderRadius: '5px'
-          }}>
-            {message}
+    <div className="login-page">
+      <main>
+        <h1>Iniciar sessió</h1>
+
+        {error && (
+          <div className="notification error">
+            {error}
           </div>
         )}
 
-        <input type="text" name="nombre" placeholder="Nom" onChange={handleChange} required />
-        <input type="text" name="apellidos" placeholder="Cognoms" onChange={handleChange} required />
-        <input type="email" name="email" placeholder="Email" onChange={handleChange} required />
-        <input type="password" name="password" placeholder="Contrasenya" onChange={handleChange} required />
-        <input type="text" name="ciudad" placeholder="Ciutat" onChange={handleChange} required />
-        <input type="text" name="telefono" placeholder="Telèfon" onChange={handleChange} required />
-        <input type="text" name="entidad" placeholder="Entitat" onChange={handleChange} required />
-        
-        <select name="tipo" onChange={handleChange} required>
-          <option value="">Selecciona tipus...</option>
-          <option value="Empresa">Empresa</option>
-          <option value="Centre">Centre</option>
-        </select>
-        
-        <button type="submit">Registrarse</button>
-      </form>
+        <form onSubmit={handleSubmit} noValidate>
+          <label>
+            Correu electrònic
+            <input
+              type="email"
+              name="email"
+              placeholder="exemple@empresa.cat"
+              value={formData.email}
+              onChange={handleChange}
+              required
+            />
+          </label>
+
+          <label>
+            Contrasenya
+            <input
+              type="password"
+              name="password"
+              placeholder="********"
+              value={formData.password}
+              onChange={handleChange}
+              required
+            />
+          </label>
+
+          <button type="submit">Iniciar sessió</button>
+        </form>
+
+        <div style={{ marginTop: '1rem', textAlign: 'center' }}>
+          <Link href="/forgot-password" style={{fontSize: '0.9rem', color: '#7B68EE'}}>No recordes la teva contrasenya?</Link>
+        </div>
+
+        <div className="button-group">
+          <Link to="/register" className="registre-btn" style={{textDecoration: 'none', textAlign: 'center', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+            Registrar-se
+          </Link>
+        </div>
+      </main>
     </div>
   );
 };
 
-export default Register;
+export default Login;
