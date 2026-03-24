@@ -1,10 +1,7 @@
 <?php
-/* db.php actualizado */
 require_once __DIR__ . '/logger.php';
 
-// Importante: Asegúrate de que la ruta al .env es correcta. 
-// Si moviste carpetas, puede que necesites ajustar este path.
-$envPath = __DIR__ . '/../../.env'; // Ajustado según tu nueva estructura
+$envPath = __DIR__ . '/../../.env';
 if (file_exists($envPath)) {
     $env = parse_ini_file($envPath);
 } else {
@@ -28,9 +25,7 @@ try {
             PDO::ATTR_EMULATE_PREPARES => false
         ]
     );
-    // log_info("Conexión a BD establecida exitosamente"); 
 } catch (PDOException $e) {
-    // Si falla la BD, enviamos JSON y headers para que React sepa qué pasa
     header("Access-Control-Allow-Origin: http://localhost:5173");
     header("Content-Type: application/json");
     
@@ -38,5 +33,5 @@ try {
         "success" => false,
         "message" => "Error de base de dades: " . $e->getMessage()
     ]);
-    exit; // Usamos exit en lugar de die para mantener el formato
+    exit;
 }
