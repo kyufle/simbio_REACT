@@ -1,0 +1,3 @@
+[2026-03-24 12:16:19] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-03-24 12:16:37] [INFO] [IP: 127.0.0.1] [Usuario: test@gmail.com] [POST /login.php] Usuario autenticado: test@gmail.com
+[2026-03-24 12:16:37] [INFO] [IP: 127.0.0.1] [Usuario: test@gmail.com] [POST /login.php] AUTH [LOGIN] - Email: test@gmail.com
