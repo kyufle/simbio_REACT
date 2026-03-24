@@ -1,0 +1,233 @@
+[2026-01-23 16:02:58] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:02:58] [WARNING] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-23 16:02:58] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:03:02] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:03:39] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:09:21] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:09:22] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:11:07] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:13:04] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [POST /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:13:38] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:31:27] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:31:27] [WARNING] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-23 16:31:27] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:31:31] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:31:50] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:33:24] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [POST /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:33:56] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php?validate=01fdd09fe9c8e8422383388b4faf3f93d58246ffebb3111ebad4390c19827576] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:04] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:05] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:16] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:16] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [POST /login.php] Usuario autenticado: bimargon2006@gmail.com
+[2026-01-23 16:34:16] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [POST /login.php] AUTH [LOGIN] - Email: bimargon2006@gmail.com
+[2026-01-23 16:34:16] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:16] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-23 16:34:17] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:21] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:21] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-23 16:34:21] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-23 16:34:21] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:24] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:24] [INFO] [IP: 85.192.71.100] [Usuario: bimargon2006@gmail.com] [GET /logout.php] Usuario desconectado: bimargon2006@gmail.com
+[2026-01-23 16:34:25] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:34:25] [WARNING] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-23 16:34:25] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:44:23] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:44:25] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:45:49] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:46:25] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [POST /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 16:46:49] [INFO] [IP: 85.192.71.100] [Usuario: ANONIMO] [POST /register.php] Conexión a BD establecida exitosamente
+[2026-01-23 00:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 00:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 00:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 00:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 00:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 00:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 00:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 00:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 00:40:02] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 00:40:02] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 00:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 00:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 01:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 01:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 01:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 01:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 01:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 01:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 01:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 01:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 01:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 01:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 01:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 01:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 02:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 02:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 02:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 02:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 02:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 02:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 02:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 02:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 02:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 02:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 02:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 02:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 03:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 03:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 03:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 03:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 03:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 03:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 03:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 03:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 03:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 03:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 03:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 03:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 04:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 04:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 04:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 04:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 04:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 04:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 04:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 04:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 04:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 04:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 04:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 04:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 05:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 05:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 05:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 05:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 05:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 05:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 05:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 05:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 05:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 05:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 05:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 05:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 06:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 06:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 06:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 06:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 06:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 06:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 06:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 06:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 06:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 06:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 06:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 06:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 07:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 07:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 07:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 07:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 07:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 07:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 07:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 07:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 07:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 07:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 07:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 07:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 08:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 08:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 08:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 08:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 08:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 08:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 08:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 08:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 08:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 08:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 08:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 08:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 09:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 09:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 09:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 09:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 09:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 09:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 09:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 09:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 09:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 09:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 09:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 09:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 10:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 10:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 10:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 10:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 10:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 10:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 10:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 10:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 10:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 10:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 10:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 10:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 11:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 11:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 11:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 11:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 11:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 11:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 11:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 11:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 11:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 11:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 11:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 11:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 12:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 12:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 12:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 12:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 12:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 12:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 12:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 12:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 12:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 12:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 12:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 12:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 13:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 13:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 13:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 13:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 13:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 13:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 13:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 13:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 13:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 13:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 13:50:02] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 13:50:02] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 14:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 14:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 14:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 14:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 14:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 14:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 14:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 14:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 14:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 14:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 14:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 14:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 15:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 15:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 15:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 15:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 15:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 15:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 15:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 15:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 15:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 15:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 15:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 15:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-23 16:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-23 16:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}

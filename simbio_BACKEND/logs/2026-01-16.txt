@@ -1,0 +1,191 @@
+[2026-01-16 19:48:37] [ERROR] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"SQLSTATE[HY000] [2002] No such file or directory"}
+[2026-01-16 20:35:33] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:38:44] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:38:44] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:38:44] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:38:48] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:38:48] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:38:48] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:39:42] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:39:42] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:39:42] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:39:47] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:39:47] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:39:47] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:41:49] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:41:49] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:41:49] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:43:00] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:43:00] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:43:00] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:43:18] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:43:18] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:43:18] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:43:27] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:43:27] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:43:27] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:43:29] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:43:29] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:43:29] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:43:30] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:43:30] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:43:30] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:43:50] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:43:50] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:43:50] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:44:09] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:44:09] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:44:09] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:45:12] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:45:12] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:45:12] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:45:19] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:45:19] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:45:19] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:46:49] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:46:58] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:47:04] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:47:04] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:47:04] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:48:50] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:48:50] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:48:50] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:48:50] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:48:50] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:48:50] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:48:52] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:48:53] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:48:55] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:48:55] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con email inexistente: alejandro.garcia@unican.es
+[2026-01-16 20:48:55] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Correu electrònic no registrat
+[2026-01-16 20:58:47] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:58:47] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 20:58:47] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 20:58:53] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:58:53] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 20:58:53] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 20:59:00] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:59:00] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 20:59:00] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 20:59:01] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:59:16] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:59:16] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 20:59:16] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 20:59:52] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 20:59:52] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 20:59:52] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:00:00] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:00:00] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:00:00] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:00:46] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:00:46] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:00:46] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:00:49] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:00:49] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:00:49] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:01:06] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:01:06] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:01:06] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:01:08] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:01:08] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:01:08] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:01:11] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:01:11] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:01:11] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:01:43] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:01:43] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: josep.orpi@vueling.com
+[2026-01-16 21:01:43] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: josep.orpi@vueling.com - Razón: Contrasenya incorrecta
+[2026-01-16 21:03:09] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:03:09] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: josep.orpi@vueling.com
+[2026-01-16 21:03:09] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: josep.orpi@vueling.com - Razón: Contrasenya incorrecta
+[2026-01-16 21:03:16] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:03:16] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:03:16] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:06:09] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:06:09] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:06:09] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:07:13] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:07:13] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:07:13] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:07:17] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:07:17] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-16 21:07:17] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-16 21:19:15] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:19:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-16 21:19:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-16 21:19:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:19:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:19:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:22:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:36] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:36] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-16 21:22:37] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:37] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:22:37] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:43] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-16 21:22:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-16 21:22:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:22:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:22:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:02] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:02] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:24:03] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-16 21:24:15] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:15] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:24:15] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:21] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-16 21:24:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-16 21:24:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:24:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:24:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:25:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-16 21:25:31] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:31] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:25:32] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:37] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:37] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-16 21:25:37] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-16 21:25:37] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:25:37] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:25:37] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:26:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:26:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:26:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:26:57] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:26:57] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:26:57] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:27:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:27:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-16 21:27:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:29:04] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:29:04] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-16 21:29:04] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:29:04] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:29:04] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:29:08] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:29:58] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:29:58] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:29:58] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:30:05] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:30:05] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:30:05] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:30:13] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:30:13] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:30:13] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:30:21] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:30:21] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:30:21] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:36:05] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:36:05] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-16 21:36:05] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-16 21:36:07] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente

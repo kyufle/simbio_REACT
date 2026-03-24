@@ -1,0 +1,3 @@
+[2026-01-14 18:50:25] [ERROR] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)"}
+[2026-01-14 18:50:30] [ERROR] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)"}
+[2026-01-14 18:51:01] [ERROR] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)"}

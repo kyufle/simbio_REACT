@@ -1,0 +1,12 @@
+[2026-01-15 08:42:21] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}
+[2026-01-15 08:42:22] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}
+[2026-01-15 08:44:49] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /login.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}
+[2026-01-15 08:44:50] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}
+[2026-01-15 08:52:56] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /login.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}
+[2026-01-15 08:52:56] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}
+[2026-01-15 08:54:55] [WARNING] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-15 08:54:56] [WARNING] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-15 08:55:11] [WARNING] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-15 08:55:11] [WARNING] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-15 08:55:54] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}
+[2026-01-15 08:55:54] [ERROR] [IP: ::1] [Usuario: ANONIMO] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"could not find driver"}

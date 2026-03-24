@@ -1,0 +1,580 @@
+[2026-01-20 15:10:43] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:10:43] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 15:10:43] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:10:55] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:10:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 15:10:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 15:10:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:10:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:10:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:12:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:12:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:12:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:13:24] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:13:24] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:13:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:15:12] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:19:38] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:19:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:19:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:19:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:20:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:21:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:21:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 15:21:07] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:21:07] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 15:21:07] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:21:30] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:21:30] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [POST /login.php] Usuario autenticado: sandra.milla@acciona.com
+[2026-01-20 15:21:30] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [POST /login.php] AUTH [LOGIN] - Email: sandra.milla@acciona.com
+[2026-01-20 15:21:30] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:21:30] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:21:30] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:32:40] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:32:40] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 15:32:40] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:32:48] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:32:48] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:32:48] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:37:47] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:37:47] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:37:47] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:38:03] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:38:15] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:05] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:05] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:43:05] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:35] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:35] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:43:35] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:46] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:46] [INFO] [IP: 127.0.0.1] [Usuario: sandra.milla@acciona.com] [GET /logout.php] Usuario desconectado: sandra.milla@acciona.com
+[2026-01-20 15:43:46] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:46] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 15:43:46] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:43:50] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:01] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:01] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-20 15:44:01] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-20 15:44:26] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:33] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:33] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 15:44:33] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 15:44:33] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:33] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:44:33] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:42] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:53] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:44:53] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:44:53] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:45:02] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:45:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:48:03] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:48:03] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:48:03] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:48:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:48:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:48:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:48:24] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:48:24] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:48:24] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:49:17] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:49:17] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:49:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:49:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:49:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:50:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:50:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:50:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:51:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:51:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:51:23] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:52:12] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:52:12] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:52:12] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:52:52] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:52:52] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:52:52] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:53:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:54:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:54:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:54:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:54:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:54:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:54:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:54:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:54:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:54:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:55:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:55:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:55:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:55:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:55:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:55:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:56:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:56:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:56:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:56:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:56:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:56:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:56:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:56:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:56:50] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:57:02] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:57:02] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:57:02] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:57:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:57:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:57:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:59:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 15:59:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 15:59:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:00:03] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:00:12] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:00:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:00:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:00:23] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:00:46] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:00:46] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:00:46] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:02:51] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:04:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:04:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:04:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:41:34] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:41:34] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 16:41:34] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:41:40] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:41:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 16:41:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 16:41:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:41:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:41:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:41:54] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:43:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:43:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:43:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:43:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:44:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:44:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:44:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:44:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:47:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:47:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:47:16] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:47:54] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:47:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:47:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:48:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:48:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:48:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:48:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:48:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:48:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:01] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 16:54:29] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:29] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 16:54:29] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:50] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:50] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [POST /login.php] Usuario autenticado: manuel.cid@naturgy.com
+[2026-01-20 16:54:50] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [POST /login.php] AUTH [LOGIN] - Email: manuel.cid@naturgy.com
+[2026-01-20 16:54:50] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:54:50] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:54:50] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:55:10] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:59:59] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 16:59:59] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 16:59:59] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:00:09] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:16] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:16] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:04:16] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:17] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:17] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:04:17] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:18] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:18] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:04:18] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:18] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:04:18] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:04:18] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:08:08] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:14:10] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:14:10] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:14:10] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:14:33] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:14:33] [INFO] [IP: 127.0.0.1] [Usuario: manuel.cid@naturgy.com] [GET /logout.php] Usuario desconectado: manuel.cid@naturgy.com
+[2026-01-20 17:14:33] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:14:33] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 17:14:33] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:15:35] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:15:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 17:15:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 17:15:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:15:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:15:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:16:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:16:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:16:55] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:17:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:21:17] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:21:17] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:21:18] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:30:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:30:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:30:06] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:30:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:30:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:30:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:30:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:30:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:37] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:37] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:38] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:38] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:38] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:39] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:33:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:33:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:34:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:24] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:24] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 17:34:24] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:24] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 17:34:24] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:30] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 17:34:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 17:34:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:34:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:34:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:35:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:35:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:35:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:35:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:35:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 17:35:19] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:35:19] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 17:35:19] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:36:07] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:36:07] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-20 17:36:07] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-20 17:36:14] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:36:14] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Intento de login con contraseña incorrecta para: alejandro.garcia@unican.es
+[2026-01-20 17:36:14] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es - Razón: Contrasenya incorrecta
+[2026-01-20 17:36:22] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:36:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 17:36:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 17:36:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:36:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:36:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:36:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:36:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:36:50] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:37:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:37:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:37:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:40:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:40:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:40:41] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:40:42] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:40:42] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:40:42] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:40:59] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:40:59] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:40:59] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:43:00] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:43:00] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:43:00] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:43:11] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:43:11] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:43:11] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:43:28] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:43:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:43:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:43:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:45:04] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:45:04] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:45:04] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:57:38] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:57:38] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:57:38] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:58:52] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:58:52] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:58:53] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:59:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:59:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 17:59:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:01:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:01:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:01:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:01:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:01:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:01:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:01:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:01:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:01:08] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:01:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:02:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:02:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:02:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:02:26] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:02:36] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:06:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:06:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:06:40] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:10] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:42] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:42] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 18:08:42] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:42] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 18:08:42] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:49] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 18:08:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 18:08:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:08:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:08:49] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:17:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:17:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:17:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:17:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:17:25] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 18:17:25] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:17:25] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 18:17:25] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:19:03] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:19:09] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:19:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 18:19:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 18:19:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:19:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:19:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:19:19] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:20:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:20:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:20:21] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:21:53] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:21:53] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:21:53] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:22:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:22:50] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:22:50] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 18:22:50] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:22:50] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 18:22:50] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:22:56] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:22:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 18:22:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 18:22:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:22:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:22:56] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:23:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:23:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:23:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:00] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:00] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:27:00] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:07] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 18:27:07] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:07] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 18:27:07] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:13] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 18:27:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 18:27:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:27:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:27:27] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:30] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-20 18:27:30] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:30] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-20 18:27:30] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:35] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-20 18:27:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-20 18:27:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:27:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:27:35] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:28:43] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:13] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:14] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:15] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:16] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:16] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:16] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:16] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:16] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:16] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:23] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:23] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:23] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:44] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:45] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:46] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:29:46] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:29:46] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:05] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:31] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:30:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:30:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:30:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-20 18:30:32] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:32:00] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-20 18:32:22] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente

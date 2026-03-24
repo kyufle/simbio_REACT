@@ -1,0 +1,18 @@
+[2026-01-18 18:53:03] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-18 18:53:03] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-18 18:53:03] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-18 18:53:09] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-18 18:53:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] Usuario autenticado: alejandro.garcia@unican.es
+[2026-01-18 18:53:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [POST /login.php] AUTH [LOGIN] - Email: alejandro.garcia@unican.es
+[2026-01-18 18:53:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-18 18:53:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-18 18:53:09] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-18 18:53:17] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-18 18:53:17] [INFO] [IP: 127.0.0.1] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-18 18:53:17] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-18 18:53:17] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-18 18:53:17] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-18 19:26:23] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-18 19:26:23] [WARNING] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-18 19:26:23] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-18 19:29:27] [INFO] [IP: 127.0.0.1] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente

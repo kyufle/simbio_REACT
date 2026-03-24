@@ -1,0 +1,111 @@
+[2026-01-22 00:37:44] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 00:37:44] [ERROR] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: ffmpeg no executable | {"path":"\/usr\/bin\/ffmpeg"}
+[2026-01-22 00:41:46] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 00:41:46] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
+[2026-01-22 00:43:03] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 00:43:03] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
+[2026-01-22 00:11:29] [ERROR] [IP: 90.171.39.40] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Error de conexión a BD | {"servidor":"localhost","base_datos":"simbio","error":"SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)"}
+[2026-01-22 00:12:05] [INFO] [IP: 90.171.39.40] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:12:05] [INFO] [IP: 90.171.39.40] [Usuario: alejandro.garcia@unican.es] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-22 00:12:06] [INFO] [IP: 90.171.39.40] [Usuario: alejandro.garcia@unican.es] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:12:12] [INFO] [IP: 90.171.39.40] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:12:12] [INFO] [IP: 90.171.39.40] [Usuario: alejandro.garcia@unican.es] [GET /logout.php] Usuario desconectado: alejandro.garcia@unican.es
+[2026-01-22 00:12:12] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:12:12] [WARNING] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-22 00:12:12] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:12:18] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:12:56] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [POST /register.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:16] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /register.php?validate=01fdd09fe9c8e8422383388b4faf3f93d58246ffebb3111ebad4390c19827576] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:21] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /register.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:23] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:31] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:31] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /login.php] Usuario autenticado: bimargon2006@gmail.com
+[2026-01-22 00:13:31] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /login.php] AUTH [LOGIN] - Email: bimargon2006@gmail.com
+[2026-01-22 00:13:32] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:32] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-22 00:13:32] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:39] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:39] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:13:39] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:13:39] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:48] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:48] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:13:48] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:13:48] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil actualizado para usuario: bimargon2006@gmail.com
+[2026-01-22 00:13:48] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:13:49] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:55] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /logout.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:55] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /logout.php] Usuario desconectado: bimargon2006@gmail.com
+[2026-01-22 00:13:55] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:13:55] [WARNING] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-22 00:13:55] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:04] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:04] [WARNING] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /discover.php] Acceso denegado a discover.php - Usuario no autenticado
+[2026-01-22 00:22:04] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [GET /login.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:12] [INFO] [IP: 90.171.39.40] [Usuario: ANONIMO] [POST /login.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:12] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /login.php] Usuario autenticado: bimargon2006@gmail.com
+[2026-01-22 00:22:12] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /login.php] AUTH [LOGIN] - Email: bimargon2006@gmail.com
+[2026-01-22 00:22:12] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /discover.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:12] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /discover.php] Usuario accedió a discover.php
+[2026-01-22 00:22:13] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/projects.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:18] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /log_action.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:18] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /log_action.php] Acción usuario: dislike | {"project_id":"5"}
+[2026-01-22 00:22:40] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:40] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:22:40] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:22:41] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:52] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:22:52] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:22:52] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:22:52] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil actualizado para usuario: bimargon2006@gmail.com
+[2026-01-22 00:22:52] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:22:53] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 00:23:00] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /new_project.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:23:00] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /new_project.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:23:30] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:23:30] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:25:44] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:25:44] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:26:07] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:26:07] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:26:38] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:26:38] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:24] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:24] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /new_project.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:29] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:29] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:29] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:27:29] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:31] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /edit_project.php?id=8] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:31] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /edit_project.php?id=8] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:38] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /edit_project.php?id=8] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:38] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /edit_project.php?id=8] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:41] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:41] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:41] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:27:41] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:44] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /preview_video.php?video=%2Fuploads%2F697160dc5ccb2_video3.mp4] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:46] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:46] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:46] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:27:47] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:54] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Conexión a BD establecida exitosamente
+[2026-01-22 00:27:54] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:54] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Usuario accedió a profile.php - Email: bimargon2006@gmail.com
+[2026-01-22 00:27:54] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil actualizado para usuario: bimargon2006@gmail.com
+[2026-01-22 00:27:54] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [POST /profile.php] Perfil de usuario obtenido por email: bimargon2006@gmail.com
+[2026-01-22 00:27:55] [INFO] [IP: 90.171.39.40] [Usuario: bimargon2006@gmail.com] [GET /includes/user_projects.php?email=bimargon2006%40gmail.com] Conexión a BD establecida exitosamente
+[2026-01-22 10:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 10:10:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
+[2026-01-22 10:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 10:20:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
+[2026-01-22 10:30:02] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 10:30:02] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
+[2026-01-22 10:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 10:40:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
+[2026-01-22 10:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 10:50:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
+[2026-01-22 09:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 09:30:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":7,"errors":0}
+[2026-01-22 11:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Inici
+[2026-01-22 11:00:01] [INFO] [IP: DESCONOCIDA] [Usuario: ANONIMO] [CLI CLI] CRON: Fi | {"processed":0,"skipped":6,"errors":0}
