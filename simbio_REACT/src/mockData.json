@@ -1,0 +1,83 @@
+
+
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "title": "App Gesti\u00f3 de Residus Urbans",
+        "description": "Aplicaci\u00f3 m\u00f2bil per a l'optimitzaci\u00f3 de rutes de recollida de residus utilitzant sensors a contenidors.",
+        "image": "\/uploads\/imageproject1.jpeg",
+        "video": "\/uploads\/videoproject1.mp4",
+        "entity": "CIFP C\u00e9sar Manrique",
+        "type": "Centre",
+        "tags": [
+            "Desenvolupament d'aplicacions multiplataforma",
+            "Desenvolupament d'aplicacions web"
+        ]
+    },
+    {
+        "id": 2,
+        "user_id": 21,
+        "title": "Eco-Packaging Textil",
+        "description": "Investigaci\u00f3 de nous materials biodegradables a partir de polpa de paper per a l'embalatge log\u00edstic.",
+        "image": "\/uploads\/imageproject2.jpg",
+        "video": "\/uploads\/videoproject2.mp4",
+        "entity": "Inditex",
+        "type": "Empresa",
+        "tags": [
+            "Operacions de proc\u00e9s de pasta i paper"
+        ]
+    },
+    {
+        "id": 3,
+        "user_id": 4,
+        "title": "Restauraci\u00f3 Seat 600 El\u00e8ctric",
+        "description": "Conversi\u00f3 d'un vehicle cl\u00e0ssic a motoritzaci\u00f3 100% el\u00e8ctrica com a projecte de fi de grau.",
+        "image": "\/uploads\/imageproject3.jpg",
+        "video": "\/uploads\/videoproject3.mp4",
+        "entity": "IES Mare de D\u00e9u de la Merc\u00e8",
+        "type": "Centre",
+        "tags": [
+            "Coordinaci\u00f3 d'emerg\u00e8ncies i protecci\u00f3 civil"
+        ]
+    },
+    {
+        "id": 4,
+        "user_id": 32,
+        "title": "Fleca Saludable i Cel\u00edaca",
+        "description": "Desenvolupament d'una l\u00ednia de productes de forn industrial sense al\u00b7l\u00e8rgens amb tra\u00e7abilitat total.",
+        "image": "\/uploads\/imageproject4.jpg",
+        "video": "\/uploads\/videoproject4.mp4",
+        "entity": "Grupo Bimbo",
+        "type": "Empresa",
+        "tags": [
+            "Diet\u00e8tica"
+        ]
+    },
+    {
+        "id": 5,
+        "user_id": 6,
+        "title": "Men\u00fa Gastron\u00f3mico Km0",
+        "description": "Disseny d'una carta estacional basada exclusivament en productes de l'horta local i t\u00e8cniques d'avantguarda.",
+        "image": "\/uploads\/imageproject5.jpg",
+        "video": "\/uploads\/videoproject5.mp4",
+        "entity": "CIFP Escuela de Hosteler\u00eda",
+        "type": "Centre",
+        "tags": [
+            "Direcci\u00f3 de cuina"
+        ]
+    },
+    {
+        "id": 6,
+        "user_id": 10,
+        "title": "Rehabilitaci\u00f3 Energ\u00e8tica BIM",
+        "description": "Projecte de modelatge 3D per millorar l'a\u00efllament t\u00e8rmic d'un edifici p\u00fablic dels anys 70.",
+        "image": "\/uploads\/imageproject6.jpg",
+        "video": "\/uploads\/videoproject6.mp4",
+        "entity": "Universidad Polit\u00e9cnica de Catalu\u00f1a",
+        "type": "Centre",
+        "tags": [
+            "Realitzaci\u00f3 i plans d'obres"
+        ]
+    }
+]
