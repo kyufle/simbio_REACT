@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/logger.php';
 
-$envPath = __DIR__ . '/../../.env';
+$envPath = __DIR__ . '/../.env';
 if (file_exists($envPath)) {
     $env = parse_ini_file($envPath);
 } else {

@@ -28,7 +28,7 @@ if (!empty($_SESSION['user'])) {
     jsonResponse(true, 'Usuario logueado', ['user' => $_SESSION['user']]);
 }
 else {
-    jsonResponse(false, 'Usuario no logueado', null);
+    jsonResponse(false, 'Usuario no logueado', []);
 }
 
 ?>

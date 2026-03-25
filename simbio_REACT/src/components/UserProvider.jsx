@@ -12,6 +12,9 @@ export default function UserProvider({ children }) {
             });
             
             const data = await response.json();
+            if (data.success === false && window.location.pathname !== '/log-in') 
+                window.location.href = '/log-in'
+            
             setUser(data.user.name);
             
             // setProjects(sorted);
