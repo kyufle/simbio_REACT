@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import ProjectCard from './ProjectCard';
+import ProjectCard from '../components/ProjectCard';
 import './Discover.css';
 
 const Discover = () => {
@@ -12,7 +12,9 @@ const Discover = () => {
     const fetchProjects = useCallback(async () => {
         setLoading(true);
         try {
-            const response = await fetch('http://localhost:8080/includes/projects.php');
+            const response = await fetch('http://localhost:8080/includes/projects.php', {
+                credentials: 'include',
+            });
             if (!response.ok) throw new Error('Error al carregar projectes');
             const data = await response.json();
             const sorted = data.sort((a, b) => (a.match === b.match ? 0 : a.match ? -1 : 1));

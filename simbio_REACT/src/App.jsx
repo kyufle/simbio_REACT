@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { BrowserRouter, Routes, Route, Link, useNavigate, useParams } from 'react-router-dom';
 
 import './styles.css';
@@ -6,60 +6,75 @@ import './chat.css';
 import './conversations.css';
 
 import projectsData from './mockData.json';
+import Login from './pages/Login';
+import Header from './components/Header';
+import MessagesList from './pages/MessagesList';
+import useBodyClass from './hooks/useBodyClass';
 
-// Utility for changing body class
-function useBodyClass(className) {
-  useEffect(() => {
-    document.body.className = className;
-    return () => { document.body.className = ''; };
-  }, [className]);
-}
 
-// ------------------------------------
-// Header Component (from original)
-// ------------------------------------
-function Header() {
-  return (
-    <header>
-      <ul className="nav-links">
-        <li><Link to="/">Descobrir</Link></li>
-        <li><Link to="/profile">Perfil</Link></li>
-        <li><Link to="/messages">Converses</Link></li>
-      </ul>
-      <div className="session-info">
-        <a href="https://youtu.be/zSXbPNl1RJw" target="_blank" rel="noreferrer">Video</a>
-        |
-        <span>Usuario</span>
-        <a href="#">Tancar sessió</a>
-      </div>
-    </header>
-  );
-}
-
-// ------------------------------------
-// Discover Page
-// ------------------------------------
 function Discover() {
   useBodyClass('discover-page');
   const [projects, setProjects] = useState([]);
   const [animating, setAnimating] = useState(null);
   const [detailsOpen, setDetailsOpen] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [currentIndex, setCurrentIndex] = useState(0);
 
-  useEffect(() => {
-    setProjects(projectsData);
-  }, []);
+    const fetchProjects = useCallback(async () => {
+        setLoading(true);
+        try {
+            const response = await fetch('http://localhost:8080/includes/projects.php', {
+                credentials: 'include',
+            });
+            if (!response.ok) throw new Error('Error al carregar projectes');
+            const data = await response.json();
+            const sorted = data.sort((a, b) => (a.match === b.match ? 0 : a.match ? -1 : 1));
+            setProjects(sorted);
+            setCurrentIndex(0);
+        } catch (err) {
+            // setError(err.message);
+        } finally {
+            setLoading(false);
+        }
+    }, []);
 
-  const currentProject = projects[0];
+    useEffect(() => {
+        fetchProjects();
+    }, [fetchProjects]);
+
+    const currentProject = projects[currentIndex];
+      const handleNext = () => {
+        setCurrentIndex((prev) => prev + 1);
+    };
 
   const handleAction = (type) => {
     if (!currentProject || animating) return;
     setAnimating(type);
     setTimeout(() => {
-      setProjects(prev => prev.slice(1));
+      handleNext();
+      // setProjects(prev => prev.slice(1));
       setAnimating(null);
       setDetailsOpen(false);
     }, 500);
   };
+
+      if (loading) return <div className="loading">Carregant projectes...</div>;
+    if (error) return <div className="error">Error: {error}</div>;
+
+      // Pantalla de "No hay más proyectos"
+    if (currentIndex >= projects.length) {
+        return (
+            <div className="empty-message">
+                <div className="empty-icon">🎉</div>
+                <h2>No hi ha més vídeos per mostrar</h2>
+                <button className="restart-btn" onClick={fetchProjects}>
+                    🔄 Tornar a començar
+                </button>
+            </div>
+        );
+    }
+    
 
   return (
     <>
@@ -124,67 +139,7 @@ function Discover() {
 // ------------------------------------
 // Conversations Page
 // ------------------------------------
-function MessagesList() {
-  useBodyClass('conversations-page');
 
-  return (
-    <>
-      <div className="sidebar" style={{
-        position: 'fixed', top: 0, left: 0, right: 0, zIndex: 1000, 
-        background: 'linear-gradient(180deg, rgba(163, 210, 202, 0.95) 0%, rgba(163, 210, 202, 0) 100%)',
-        padding: '15px 20px', display: 'flex', justifyContent: 'space-between', alignItems: 'center'
-      }}>
-        <ul className="nav-links" style={{display: 'flex', gap: '20px', listStyle: 'none'}}>
-          <li><Link to="/" style={{fontWeight: 600, color: '#1a1a1a', textDecoration: 'none'}}>Descobrir</Link></li>
-          <li><Link to="/profile" style={{fontWeight: 600, color: '#1a1a1a', textDecoration: 'none'}}>Perfil</Link></li>
-          <li><Link to="/messages" style={{fontWeight: 600, color: '#1a1a1a', textDecoration: 'none'}}>Converses</Link></li>
-        </ul>
-        <div className="session-info" style={{fontWeight: 600}}>
-          <span>Usuario</span>
-        </div>
-      </div>
-
-      <main className="conversations-page" style={{paddingTop: '60px'}}>
-          <div className="conversations-container">
-              <header className="conversations-header">
-                  <h1>Converses</h1>
-                  <Link to="/" className="btn-back">Enrere</Link>
-              </header>
-
-              <div className="conversations-list">
-                  <Link to="/chat/21" className="conversation-item unread">
-                      <div className="conversation-avatar">
-                          <div className="avatar-placeholder">EP</div>
-                      </div>
-                      <div className="conversation-info">
-                          <div className="conversation-header">
-                              <h3>Eco-Packaging Textil</h3>
-                              <span className="conversation-time">Ara mateix</span>
-                          </div>
-                          <p className="conversation-entity">Empresa: Inditex</p>
-                          <p className="conversation-preview">Hola! Ens encanta el vostre perfil.</p>
-                      </div>
-                  </Link>
-
-                  <Link to="/chat/32" className="conversation-item">
-                      <div className="conversation-avatar">
-                          <img src="/uploads/imageproject4.jpg" alt="Avatar Grupo Bimbo" />
-                      </div>
-                      <div className="conversation-info">
-                          <div className="conversation-header">
-                              <h3>Fleca Saludable y Celíaca</h3>
-                              <span className="conversation-time">Ahir</span>
-                          </div>
-                          <p className="conversation-entity">Empresa: Grupo Bimbo</p>
-                          <p className="conversation-preview">Gràcies pel contacte, parlem aviat.</p>
-                      </div>
-                  </Link>
-              </div>
-          </div>
-      </main>
-    </>
-  );
-}
 
 // ------------------------------------
 // Single Chat Page
@@ -295,6 +250,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Discover />} />
+        <Route path="/log-in" element={<Login />} />
         <Route path="/messages" element={<MessagesList />} />
         <Route path="/chat/:id" element={<Chat />} />
         <Route path="/profile" element={<Profile />} />

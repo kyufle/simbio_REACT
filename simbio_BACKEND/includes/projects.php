@@ -2,6 +2,10 @@
 require_once 'db.php';
 require_once 'auth.php';
 require_once 'logger.php';
+header("Access-Control-Allow-Origin: http://localhost:5173");
+header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With");
+header("Access-Control-Allow-Credentials: true");
 header('Content-Type: application/json; charset=utf-8');
 
 if (!isLogged()) {
@@ -35,7 +39,6 @@ try {
         ON ut.tag_id = pt.tag_id 
         AND ut.user_id = ?
     WHERE p.user_id != ?
-    AND p.deleted = 0
     GROUP BY p.project_id
     ORDER BY tags_en_comun DESC, p.project_id DESC
     ";

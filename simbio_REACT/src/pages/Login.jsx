@@ -5,7 +5,7 @@ const Login = () => {
   const [formData, setFormData] = useState({ email: '', password: '' });
   const [error, setError] = useState('');
 
-const LOGIN_API_URL = 'http://localhost:8080//simbio_BACKEND/login.php';
+const LOGIN_API_URL = 'http://localhost:8080/login.php';
 
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
@@ -28,7 +28,7 @@ const handleSubmit = async (e) => {
     const data = await response.json();
     
     if (data.success) {
-      window.location.href = '/profile';
+      window.location.href = '/';
     } else {
       setError(data.message);
     }
@@ -39,8 +39,8 @@ const handleSubmit = async (e) => {
 };
 
   return (
-    <div className="login-page">
-      <main>
+    <div className="login-page" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', backgroundColor: '#A3D2CA'}}>
+      <main style={{backgroundColor: 'white', borderRadius: '15px', padding: '25px'}}>
         <h1>Iniciar sessió</h1>
 
         {error && (
@@ -49,10 +49,10 @@ const handleSubmit = async (e) => {
           </div>
         )}
 
-        <form onSubmit={handleSubmit} noValidate>
-          <label>
-            Correu electrònic
-            <input
+        <form onSubmit={handleSubmit} noValidate style={{display: 'flex', flexDirection: 'column'}}>
+          <label style={{width: '100%', display: 'block', marginTop:'20px'}}>
+            <p>Correu electrònic</p>
+            <input style={{padding: '10px', borderRadius: '5px', width: '100%', display: 'block', marginBottom:'20px'}}
               type="email"
               name="email"
               placeholder="exemple@empresa.cat"
@@ -62,9 +62,9 @@ const handleSubmit = async (e) => {
             />
           </label>
 
-          <label>
+          <label style={{width: '100%', display: 'block'}}>
             Contrasenya
-            <input
+           <input style={{padding: '10px', borderRadius: '5px', width: '100%', display: 'block', marginBottom:'20px'}}
               type="password"
               name="password"
               placeholder="********"
@@ -74,10 +74,15 @@ const handleSubmit = async (e) => {
             />
           </label>
 
-          <button type="submit">Iniciar sessió</button>
+          <button type="submit" style={{color: 'white',
+    fontWeight: 600,
+    background: 'linear-gradient(135deg, #7b68ee, #a3d2ca)',
+    padding: '8px 16px',
+    borderRadius: '5px',
+    cursor: 'pointer'}}>Iniciar sessió</button>
         </form>
 
-        <div style={{ marginTop: '1rem', textAlign: 'center' }}>
+        {/* <div style={{ marginTop: '1rem', textAlign: 'center' }}>
           <Link href="/forgot-password" style={{fontSize: '0.9rem', color: '#7B68EE'}}>No recordes la teva contrasenya?</Link>
         </div>
 
@@ -85,7 +90,7 @@ const handleSubmit = async (e) => {
           <Link to="/register" className="registre-btn" style={{textDecoration: 'none', textAlign: 'center', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
             Registrar-se
           </Link>
-        </div>
+        </div> */}
       </main>
     </div>
   );
